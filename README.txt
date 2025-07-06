@@ -23,3 +23,4 @@ start htmlcov/index.html
 Catatan:
 Perlu diingat, hasil index.html coverage test yang dihasilkan bergantung pada perintah yang dijalankan.
 
+Untuk Google Sheet tidak disertakan untuk mencegah Account Key tersebar
